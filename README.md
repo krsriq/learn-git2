@@ -1,3 +1,3 @@
 # learn-git2
 
-learn more
+learn somewhat more
